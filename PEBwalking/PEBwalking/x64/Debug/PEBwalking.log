@@ -1,0 +1,8 @@
+﻿  PEBwalking.cpp
+C:\Users\aaron\source\repos\PEBwalking\PEBwalking\PEBwalking.cpp(150,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aaron\source\repos\PEBwalking\PEBwalking\PEBwalking.cpp(180,9): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'int *'
+C:\Users\aaron\source\repos\PEBwalking\PEBwalking\PEBwalking.cpp(180,9): warning C4313: 'printf': '%d' en la cadena de formato entra en conflicto con el argumento 1 de tipo 'int *'
+C:\Users\aaron\source\repos\PEBwalking\PEBwalking\PEBwalking.cpp(260,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aaron\source\repos\PEBwalking\PEBwalking\PEBwalking.cpp(124,1): warning C4715: 'infoPEB': no todas las rutas de acceso de control devuelven un valor
+C:\Users\aaron\source\repos\PEBwalking\PEBwalking\PEBwalking.cpp(266,1): warning C4715: 'descargarShellcode': no todas las rutas de acceso de control devuelven un valor
+  PEBwalking.vcxproj -> C:\Users\aaron\source\repos\PEBwalking\x64\Debug\PEBwalking.exe
